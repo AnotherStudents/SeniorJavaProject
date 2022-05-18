@@ -1,12 +1,12 @@
 # SeniorJavaProject
 
-This is the code I devloped for my Senior Java Projet.
+This is the code I developed for my Senior Java Project.
 Inside of AvailabilityDemand.java there is a main function that is commented out along with test cases inside of it.
 
-This is a short exmaple of my java capabilties.
+This is a short example of my java capabilities.
 
 Comments for this project were forbidden from inside of the code.
 Comments were instead written inside of a class diagram.
 
 You will also find a Class Diagram.astah file.
-Inside of this file you can view many different digrams along with all of the comments for the program.
+Inside of this file you can view many different diagrams along with all of the comments for the program.
