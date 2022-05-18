@@ -167,7 +167,7 @@ public class AvailabilityDemand {
 		System.out.println("\n\nNEW TEST \n");
 
 
-		//Test 6 - FAIL event should notify all that fit criteria, not just one...
+		//Test 6 -- Correct
 		//			Events should be stored so new subscribers can also see them.
 		ava.processInput("subscribe, John Doe, New York City, 12/01/2021, 12/05/2021");
 		ava.processInput("subscribe, William, New York City, 12/10/2021, 12/15/2021");
